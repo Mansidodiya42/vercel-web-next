@@ -14,7 +14,6 @@ export default function Page() {
       <Navigation />
       <main>
         <Hero />
-        {/* <Hero /> */}
         <Features />
         <Services />
         <Team />
